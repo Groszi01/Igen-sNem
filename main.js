@@ -1,7 +1,11 @@
 console.log("Üdvözöllek.")
 
 function mama(papa) {
-    print(papa)
+    console.log(papa)
 }
 
 mama("Szeretem a fagyit")
+
+var tik = "HELLÓ"
+
+console.log(tik.length, tik.toLowerCase())
