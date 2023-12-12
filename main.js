@@ -8,4 +8,4 @@ mama("Szeretem a fagyit")
 
 var tik = "HELLÓ"
 
-console.log(tik.length, tik.toLowerCase())
+console.log("A tik változó hosszúsága: " + tik.length, "A tik váltózó csupa kis betűvel: " + tik.toLowerCase())
