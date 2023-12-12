@@ -6,6 +6,6 @@ function mama(papa) {
 
 mama("Szeretem a fagyit")
 
-var tik = "HELLÓ"
-
-console.log("A tik változó hosszúsága: " + tik.length, "A tik váltózó csupa kis betűvel: " + tik.toLowerCase())
+function hosszusag(tik) {
+    console.log("A tik változó hosszúsága: " + tik.length, "A tik váltózó csupa kis betűvel: " + tik.toLowerCase())
+}
