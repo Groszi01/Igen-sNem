@@ -11,3 +11,10 @@ function hosszusag(tik) {
 }
 
 hosszusag("TETTEDETETTEKTETTESÉNEKTETTESE")
+
+
+function összeadás(num1, num2) {
+    console.log(num1 + num2)
+}
+
+összeadás(12, 36)
